@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobSecurityCertPinConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <certificateHash>SHA256_CERT_HASH_HERE</certificateHash>
+    <domainName>api.example.com</domainName>
+    <isEnabled>true</isEnabled>
+    <isSubdomainIncluded>false</isSubdomainIncluded>
+    <masterLabel>My Cert Pin</masterLabel>
+    <mobilePlatform>Android</mobilePlatform>
+    <severityLevel>Error</severityLevel>
+    <type>Resource</type>
+</MobSecurityCertPinConfig>
