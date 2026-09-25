@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CnfgMgmtRcnRuleSugg xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cnfgItemTypeDef>SD_AIApp</cnfgItemTypeDef>
+    <cnfgMgmtRcnRuleSuggGenAt>2026-09-15T12:00:00.000Z</cnfgMgmtRcnRuleSuggGenAt>
+    <cnfgMgmtRcnRuleSuggPriorities>test</cnfgMgmtRcnRuleSuggPriorities>
+    <cnfgMgmtRcnRuleSuggReasoning>test reasoning</cnfgMgmtRcnRuleSuggReasoning>
+    <cnfgMgmtRcnRuleSuggStatus>test</cnfgMgmtRcnRuleSuggStatus>
+    <cnfgMgmtRcnRuleSuggType>test</cnfgMgmtRcnRuleSuggType>
+    <label>test Rcn Rule Sugg</label>
+</CnfgMgmtRcnRuleSugg>
