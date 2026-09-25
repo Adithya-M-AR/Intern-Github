@@ -4,4 +4,10 @@
         <members>test_RcnRuleSugg</members>
         <name>CnfgMgmtRcnRuleSugg</name>
     </types>
+    <types>
+        <members>Help</members>
+        <members>ServiceHelios</members>
+        <members>ServiceItam</members>
+        <name>Settings</name>
+    </types>
 </Package>
